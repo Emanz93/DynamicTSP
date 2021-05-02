@@ -1,0 +1,221 @@
+(base) C:\Users\Emanuele Lovera\Documents\Python\DynamicTSP>python dynamic_ant_main.py
+NN SOLUTION
+  solution=[66, 76, 40, 78, 15, 98, 22, 68, 51, 65, 88, 77, 25, 90, 61, 60, 14, 38, 95, 92, 39, 45, 5, 75, 8, 23, 55, 10, 91, 83, 58, 69, 93, 89, 57, 9, 26, 48, 96, 70, 16, 52, 67, 37, 18, 82, 3, 49, 46, 72, 81, 33, 19, 28, 85, 24, 1, 80, 97, 50, 94, 13, 2, 42, 71, 36, 53, 0, 21, 4, 12, 79, 34, 11, 74, 86, 30, 35, 6, 47, 27, 64, 17, 84, 63, 41, 44, 31, 99, 43, 56, 59, 54, 87, 62, 20, 73, 32, 29, 7]
+  cost   = 55904.31982308764
+ computed in 0.7528572082519531
+
+alpha=1, beta=1, type=MMAS
+  cost = 72126.61326279899
+
+alpha=1, beta=1, type=AS
+  cost = 55467.600699445255
+
+alpha=2, beta=1, type=MMAS
+  cost = 69783.7816652556
+
+alpha=2, beta=1, type=AS
+  cost = 56980.53583737235
+
+alpha=3, beta=1, type=MMAS
+  cost = 72429.83086382614
+
+alpha=3, beta=1, type=AS
+  cost = 64716.47560336262
+
+alpha=4, beta=1, type=MMAS
+  cost = 65339.73637322173
+
+alpha=4, beta=1, type=AS
+  cost = 57744.98632831641
+
+alpha=5, beta=1, type=MMAS
+  cost = 66055.79023564182
+
+alpha=5, beta=1, type=AS
+  cost = 58446.372785422274
+
+alpha=6, beta=1, type=MMAS
+  cost = 63927.19898851202
+
+alpha=6, beta=1, type=AS
+  cost = 63911.50841511112
+
+alpha=1, beta=2, type=MMAS
+  cost = 58638.67335328151
+
+alpha=1, beta=2, type=AS
+  cost = 55418.88448361361
+
+alpha=2, beta=2, type=MMAS
+  cost = 56041.134531535674
+
+alpha=2, beta=2, type=AS
+  cost = 58097.41069916872
+
+alpha=3, beta=2, type=MMAS
+  cost = 56081.822835278945
+
+alpha=3, beta=2, type=AS
+  cost = 55693.31073970689
+
+alpha=4, beta=2, type=MMAS
+  cost = 58664.60132295364
+
+alpha=4, beta=2, type=AS
+  cost = 56918.01990308562
+
+alpha=5, beta=2, type=MMAS
+  cost = 56817.96042963329
+
+alpha=5, beta=2, type=AS
+  cost = 55858.26121389499
+
+alpha=6, beta=2, type=MMAS
+  cost = 60448.13365373472
+
+alpha=6, beta=2, type=AS
+  cost = 55570.190224794955
+
+alpha=1, beta=3, type=MMAS
+  cost = 55974.92951791357
+
+alpha=1, beta=3, type=AS
+  cost = 55566.39208367024
+
+alpha=2, beta=3, type=MMAS
+  cost = 56516.05430170608
+
+alpha=2, beta=3, type=AS
+  cost = 55564.32762839304
+
+alpha=3, beta=3, type=MMAS
+  cost = 58353.11297518595
+
+alpha=3, beta=3, type=AS
+  cost = 55416.21436041037
+
+alpha=4, beta=3, type=MMAS
+  cost = 55928.31881317534
+
+alpha=4, beta=3, type=AS
+  cost = 55570.190224794955
+
+alpha=5, beta=3, type=MMAS
+  cost = 57458.328944344474
+
+alpha=5, beta=3, type=AS
+  cost = 55570.190224794955
+
+alpha=6, beta=3, type=MMAS
+  cost = 56555.534143854755
+
+alpha=6, beta=3, type=AS
+  cost = 55570.190224794955
+
+alpha=1, beta=4, type=MMAS
+  cost = 55567.836984343114
+
+alpha=1, beta=4, type=AS
+  cost = 55418.88448361361
+
+alpha=2, beta=4, type=MMAS
+  cost = 56117.657215016654
+
+alpha=2, beta=4, type=AS
+  cost = 55416.63712657063
+
+alpha=3, beta=4, type=MMAS
+  cost = 55612.055806915814
+
+alpha=3, beta=4, type=AS
+  cost = 55638.07624838614
+
+alpha=4, beta=4, type=MMAS
+  cost = 56045.69810337168
+
+alpha=4, beta=4, type=AS
+  cost = 55418.88448361361
+
+alpha=5, beta=4, type=MMAS
+  cost = 55874.94379709588
+
+alpha=5, beta=4, type=AS
+  cost = 55463.68023244652
+
+alpha=6, beta=4, type=MMAS
+  cost = 56376.72669601603
+
+alpha=6, beta=4, type=AS
+  cost = 55418.88448361361
+
+  alpha=1, beta=5, type=MMAS
+  cost = 55628.21569496078
+
+alpha=1, beta=5, type=AS
+  cost = 55418.88448361361
+
+alpha=2, beta=5, type=MMAS
+  cost = 55694.8321851551
+
+alpha=2, beta=5, type=AS
+  cost = 55566.103060173526
+
+alpha=3, beta=5, type=MMAS
+  cost = 56438.31592225343
+
+alpha=3, beta=5, type=AS
+  cost = 55418.88448361361
+
+alpha=4, beta=5, type=MMAS
+  cost = 55579.78424946277
+
+alpha=4, beta=5, type=AS
+  cost = 55418.88448361361
+
+alpha=5, beta=5, type=MMAS
+  cost = 56219.58343614096
+
+alpha=5, beta=5, type=AS
+  cost = 55570.190224794955
+
+alpha=6, beta=5, type=MMAS
+  cost = 55874.14413919487
+
+alpha=6, beta=5, type=AS
+  cost = 55418.88448361361
+
+alpha=1, beta=6, type=MMAS
+  cost = 55553.09958428759
+
+alpha=1, beta=6, type=AS
+  cost = 55415.129850487814
+
+alpha=2, beta=6, type=MMAS
+  cost = 55564.32762839304
+
+alpha=2, beta=6, type=AS
+  cost = 55570.190224794955
+
+alpha=3, beta=6, type=MMAS
+  cost = 55631.97962427294
+
+alpha=3, beta=6, type=AS
+  cost = 55418.88448361361
+
+alpha=4, beta=6, type=MMAS
+  cost = 55683.63629047975
+
+alpha=4, beta=6, type=AS
+  cost = 55570.190224794955
+
+alpha=5, beta=6, type=MMAS
+  cost = 55480.71569426542
+
+alpha=5, beta=6, type=AS
+  cost = 55418.88448361361
+
+alpha=6, beta=6, type=MMAS
+  cost = 55806.35316119628
+
+alpha=6, beta=6, type=AS
+  cost = 55570.190224794955

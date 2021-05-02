@@ -1,0 +1,7 @@
+INVER OVER
+random = 591198.67 m s-2
+inverover = 5253.769377552351
+
+Ant system started
+random cost choice = 1220717.9233589803
+ant system = 1087864.0811474435
